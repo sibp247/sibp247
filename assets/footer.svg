@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 115" width="900" height="115">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 110" width="760" height="110">
   <defs>
-    <clipPath id="footerClip">
-      <rect width="900" height="115" rx="20"/>
-    </clipPath>
+    <clipPath id="footerClip"><rect width="760" height="110" rx="20"/></clipPath>
     <linearGradient id="footerTextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#22d3ee"/>
       <stop offset="50%" stop-color="#a78bfa"/>
@@ -20,13 +18,13 @@
   </defs>
 
   <g clip-path="url(#footerClip)">
-    <rect width="900" height="115" fill="#0b0f1a"/>
-    <path d="M0,70 Q225,45 450,72 T900,64 L900,115 L0,115 Z" fill="url(#waveGrad1)"/>
-    <path d="M0,84 Q240,104 480,82 T900,88 L900,115 L0,115 Z" fill="url(#waveGrad2)"/>
+    <rect width="760" height="110" fill="#0b0f1a"/>
+    <path d="M0,68 Q190,44 380,70 T760,62 L760,110 L0,110 Z" fill="url(#waveGrad1)"/>
+    <path d="M0,82 Q210,100 420,80 T760,86 L760,110 L0,110 Z" fill="url(#waveGrad2)"/>
 
-    <text x="450" y="50" text-anchor="middle" fill="url(#footerTextGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" letter-spacing="5">THANKS FOR STOPPING BY</text>
-    <text x="450" y="72" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="500" letter-spacing="3">SIBP247 · DHAKA, BANGLADESH</text>
+    <text x="380" y="48" text-anchor="middle" fill="url(#footerTextGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="600" letter-spacing="4.5">THANKS FOR STOPPING BY</text>
+    <text x="380" y="72" text-anchor="middle" fill="#64748b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500" letter-spacing="3">SIBP247 · DHAKA, BANGLADESH</text>
   </g>
 
-  <rect x="0.5" y="0.5" width="899" height="114" rx="20" fill="none" stroke="#1e293b" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="759" height="109" rx="20" fill="none" stroke="#1e293b" stroke-width="1"/>
 </svg>
