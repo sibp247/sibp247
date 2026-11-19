@@ -22,25 +22,31 @@
 
 <h3>✦ &nbsp;S E L E C T E D &nbsp; W O R K&nbsp; ✦</h3>
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/sibp247/tools"><img src="assets/card1.svg" width="100%" alt="tools" /></a></td>
-<td width="50%"><a href="https://github.com/sibp247/blogger-pwa"><img src="assets/card2.svg" width="100%" alt="blogger-pwa" /></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/sibp247/premium-blogger-templates"><img src="assets/card3.svg" width="100%" alt="premium-blogger-templates" /></a></td>
-<td width="50%"><a href="https://github.com/sibp247/kernel_xiaomi_sm6225"><img src="assets/card4.svg" width="100%" alt="kernel_xiaomi_sm6225" /></a></td>
-</tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <div style="flex: 1 1 45%; min-width: 260px; max-width: 480px;">
+    <a href="https://github.com/sibp247/tools"><img src="assets/card1.svg" width="100%" alt="tools" /></a>
+  </div>
+  <div style="flex: 1 1 45%; min-width: 260px; max-width: 480px;">
+    <a href="https://github.com/sibp247/blogger-pwa"><img src="assets/card2.svg" width="100%" alt="blogger-pwa" /></a>
+  </div>
+  <div style="flex: 1 1 45%; min-width: 260px; max-width: 480px;">
+    <a href="https://github.com/sibp247/premium-blogger-templates"><img src="assets/card3.svg" width="100%" alt="premium-blogger-templates" /></a>
+  </div>
+  <div style="flex: 1 1 45%; min-width: 260px; max-width: 480px;">
+    <a href="https://github.com/sibp247/kernel_xiaomi_sm6225"><img src="assets/card4.svg" width="100%" alt="kernel_xiaomi_sm6225" /></a>
+  </div>
+</div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <h3>✦ &nbsp;N U M B E R S&nbsp; ✦</h3>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sibp247&show_icons=true&hide_border=true&bg_color=0b0f1a&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0&ring_color=f472b6&border_radius=22" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibp247&layout=compact&hide_border=true&bg_color=0b0f1a&title_color=22d3ee&text_color=e2e8f0&border_radius=22&langs_count=6" alt="Top languages" />
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+  <img height="180" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=sibp247&show_icons=true&hide_border=true&bg_color=0b0f1a&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0&ring_color=f472b6&border_radius=22" alt="Stats" />
+  <img height="180" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibp247&layout=compact&hide_border=true&bg_color=0b0f1a&title_color=22d3ee&text_color=e2e8f0&border_radius=22&langs_count=6" alt="Top languages" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=sibp247&hide_border=true&background=0b0f1a&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border_radius=22" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=sibp247&hide_border=true&background=0b0f1a&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border_radius=22" alt="Streak" style="max-width: 100%;" />
 
 <img src="assets/footer.svg" width="100%" alt="" />
 
