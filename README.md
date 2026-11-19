@@ -30,19 +30,16 @@
 
 <p align="center">
   <a href="https://github.com/sibp247/tools">
-    <img src="assets/card1.svg" width="48%" alt="tools — Various handy web tools, all in one place" />
+    <img src="assets/card1.svg" width="360" alt="tools — Various handy web tools, all in one place" />
   </a>
-  &nbsp;
   <a href="https://github.com/sibp247/blogger-pwa">
-    <img src="assets/card2.svg" width="48%" alt="blogger-pwa — Turn a Blogger site into an installable PWA" />
+    <img src="assets/card2.svg" width="360" alt="blogger-pwa — Turn a Blogger site into an installable PWA" />
   </a>
-  <br/>
   <a href="https://github.com/sibp247/premium-blogger-templates">
-    <img src="assets/card3.svg" width="48%" alt="premium-blogger-templates — Premium Blogspot themes, free to download" />
+    <img src="assets/card3.svg" width="360" alt="premium-blogger-templates — Premium Blogspot themes, free to download" />
   </a>
-  &nbsp;
   <a href="https://github.com/sibp247/kernel_xiaomi_sm6225">
-    <img src="assets/card4.svg" width="48%" alt="kernel_xiaomi_sm6225 — Kernel work for Redmi Note 11 on AOSP ROMs" />
+    <img src="assets/card4.svg" width="360" alt="kernel_xiaomi_sm6225 — Kernel work for Redmi Note 11 on AOSP ROMs" />
   </a>
 </p>
 
@@ -52,16 +49,15 @@
 
 <p align="center">
   <a href="https://github.com/sibp247">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sibp247&show_icons=true&count_private=true&hide_border=true&bg_color=0b0f1a&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0&ring_color=f472b6&border_radius=22" alt="GitHub Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=sibp247&show_icons=true&count_private=true&hide_border=true&bg_color=0b0f1a&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0&ring_color=f472b6&border_radius=22" alt="GitHub Stats" />
   </a>
-  &nbsp;
   <a href="https://github.com/sibp247?tab=repositories">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibp247&layout=compact&hide_border=true&bg_color=0b0f1a&title_color=22d3ee&text_color=e2e8f0&border_radius=22&langs_count=6" alt="Top Languages" />
+    <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibp247&layout=compact&hide_border=true&bg_color=0b0f1a&title_color=22d3ee&text_color=e2e8f0&border_radius=22&langs_count=6" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sibp247&hide_border=true&background=0b0f1a&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border_radius=22" alt="GitHub Streak Stats" />
+  <img width="495" src="https://streak-stats.demolab.com?user=sibp247&hide_border=true&background=0b0f1a&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8&border_radius=22" alt="GitHub Streak Stats" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
