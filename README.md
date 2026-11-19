@@ -30,19 +30,19 @@
 
 <p align="center">
   <a href="https://github.com/sibp247/tools">
-    <img src="assets/card1.svg" width="48%" alt="Tools — Developer Utilities" />
+    <img src="assets/card1.svg" width="48%" alt="tools — Various handy web tools, all in one place" />
   </a>
   &nbsp;
   <a href="https://github.com/sibp247/blogger-pwa">
-    <img src="assets/card2.svg" width="48%" alt="Blogger PWA" />
+    <img src="assets/card2.svg" width="48%" alt="blogger-pwa — Turn a Blogger site into an installable PWA" />
   </a>
   <br/>
   <a href="https://github.com/sibp247/premium-blogger-templates">
-    <img src="assets/card3.svg" width="48%" alt="Premium Blogger Templates" />
+    <img src="assets/card3.svg" width="48%" alt="premium-blogger-templates — Premium Blogspot themes, free to download" />
   </a>
   &nbsp;
   <a href="https://github.com/sibp247/kernel_xiaomi_sm6225">
-    <img src="assets/card4.svg" width="48%" alt="Xiaomi SM6225 Kernel" />
+    <img src="assets/card4.svg" width="48%" alt="kernel_xiaomi_sm6225 — Kernel work for Redmi Note 11 on AOSP ROMs" />
   </a>
 </p>
 
