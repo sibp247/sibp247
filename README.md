@@ -1,188 +1,115 @@
 
 <div align="center">
 
-<pre>
-███████╗ ██╗██████╗ ██████╗ ██████╗  ██╗  ██╗███████╗
-██╔════╝ ██║██╔══██╗██╔══██╗╚════██╗ ██║  ██║██╔════╝
-███████╗ ██║██████╔╝██████╔╝ █████╔╝ ███████║███████╗
-╚════██║ ██║██╔═══╝ ██╔═══╝  ╚═══██╗ ╚════██║╚════██║
-███████║ ██║██║     ██║     ██████╔╝      ██║███████║
-╚══════╝ ╚═╝╚═╝     ╚═╝     ╚═════╝       ╚═╝╚══════╝
-</pre>
+# Shahidul Islam
 
-<sub>INDEPENDENT DEVELOPER &nbsp; / &nbsp; BANGLADESH &nbsp; / &nbsp; WEB & SOFTWARE</sub>
+**Full Stack Developer · Software Builder**
+
+I build web applications, digital tools, and practical solutions with a focus on clean design and functionality.
+
+<br/>
+
+<a href="https://sibp247.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://github.com/sibp247">GitHub</a> &nbsp;·&nbsp;
+<a href="mailto:your-email@example.com">Email</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Location-Bangladesh-0D1117?style=flat-square" />
+<img src="https://img.shields.io/github/followers/sibp247?style=flat-square&label=Followers" />
 
 </div>
 
-<br/>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+### About
 
-<img src="https://img.shields.io/badge/PROFILE-01-161B22?style=flat-square" />
+I'm a developer who enjoys turning ideas into useful software. My interests span web development, UI/UX, automation, open-source projects, and exploring how technology can make everyday tasks simpler.
 
-# Shahidul Islam
-
-**Developer.**
-
-I turn ideas into digital tools, experiment with technology, and build things that solve real problems.
-
-<br/>
-
-[**↗ Website**](https://sibp247.vercel.app)
-
-[**↗ GitHub**](https://github.com/sibp247)
-
-[**↗ Contact**](mailto:your-email@example.com)
-
-<br/>
+I believe good software should be **functional, intuitive, maintainable, and thoughtfully designed.**
 
 ---
 
-<sub>LOCATION</sub>
+### Selected Work
 
-**Bangladesh 🇧🇩**
-
-<sub>MODE</sub>
-
-**BUILD · EXPLORE · ITERATE**
-
-<sub>INTERESTS</sub>
-
-Web / Open Source / UI / Systems
-
-</td>
-
-<td width="67%" valign="top">
-
-<img src="https://img.shields.io/badge/WORKSPACE-LIVE_PROJECTS-161B22?style=flat-square" />
-
-# Things I've built<span>.</span>
-
-<sub>SELECT A PROJECT TO EXPLORE ↗</sub>
-
-<br/>
-
-### 01 / WEB UTILITIES
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **Tools**
 
-A collection of practical utilities designed to make everyday tasks easier.
+A collection of practical web utilities designed to simplify everyday tasks.
 
-[OPEN REPOSITORY ↗](https://github.com/sibp247/tools)
+[View repository →](https://github.com/sibp247/tools)
 
----
-
-### 02 / WEB EXPERIENCE
+</td>
+<td width="50%" valign="top">
 
 **Blogger PWA**
 
-Bringing the Blogger ecosystem closer to the modern app experience with installable PWA functionality.
+An initiative to bring an app-like experience to Blogger websites through Progressive Web App functionality.
 
-[OPEN REPOSITORY ↗](https://github.com/sibp247/blogger-pwa)
+[View repository →](https://github.com/sibp247/blogger-pwa)
 
----
-
-### 03 / DESIGN & THEMING
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 **Premium Blogger Templates**
 
-Themes and template experiments focused on the Blogspot platform.
+A collection of Blogger themes with an emphasis on modern layouts and customization.
 
-[OPEN REPOSITORY ↗](https://github.com/sibp247/premium-blogger-templates)
+[View repository →](https://github.com/sibp247/premium-blogger-templates)
 
----
-
-### 04 / SYSTEMS
+</td>
+<td width="50%" valign="top">
 
 **Xiaomi SM6225 Kernel**
 
-Kernel development, device-level experimentation, and Android system work.
+Kernel development and Android system-level experimentation for Xiaomi devices.
 
-[OPEN REPOSITORY ↗](https://github.com/sibp247/kernel_xiaomi_sm6225)
+[View repository →](https://github.com/sibp247/kernel_xiaomi_sm6225)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
 ---
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-<sub>CAPABILITIES / TOOLBOX</sub>
-
-# My toolkit
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,bash,vscode,figma,vercel" />
-
-</td>
-
-<td width="45%" valign="top">
-
-<sub>DEVELOPMENT / PHILOSOPHY</sub>
-
-# How I work
-
-```text
-01   Explore
-02   Understand
-03   Design
-04   Build
-05   Refine
-```
-
-Less unnecessary complexity.
-More useful software.
-Better experiences.
-</td>
-</tr>
-</table>
-
----
+### Technologies
 
 <div align="center">
 
-<sub>ACTIVITY LOG / GITHUB</sub>
-
-<br/><br/>
-
-<a href="https://github.com/sibp247">
-<img src="https://github-readme-stats.vercel.app/api?username=sibp247&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" width="48%" />
-</a>
-<a href="https://github.com/sibp247?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibp247&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" width="48%" />
-</a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sibp247&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="85%" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,python,git,github,linux,figma,vercel" />
 
 </div>
 
+---
+
+### GitHub Overview
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=sibp247&show_icons=true&hide_border=true&bg_color=00000000&title_color=4493F8&icon_color=4493F8&text_color=8B949E&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibp247&layout=compact&hide_border=true&bg_color=00000000&title_color=4493F8&text_color=8B949E&langs_count=6" width="48%" />
+
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=sibp247&hide_border=true&background=00000000&ring=4493F8&fire=4493F8&currStreakLabel=4493F8&sideLabels=8B949E&currStreakNum=4493F8&sideNums=8B949E&dates=8B949E" width="85%" />
+
+</div>
+
+---
 
 <div align="center">
 
-<pre>
-┌────────────────────────────────────────────────────────────────┐
-│  SIBP247  /  END OF TRANSMISSION                            │
-│  Building quietly. Shipping consistently.                     │
-└────────────────────────────────────────────────────────────────┘
-</pre>
+**Let's connect and build something useful.**
 
-<a href="https://sibp247.vercel.app">WEB</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/sibp247">GITHUB</a>
-&nbsp; · &nbsp;
-<a href="mailto:your-email@example.com">EMAIL</a>
+<a href="https://sibp247.vercel.app">Website</a> &nbsp;·&nbsp;
+<a href="https://github.com/sibp247">GitHub</a> &nbsp;·&nbsp;
+<a href="mailto:your-email@example.com">Contact</a>
+
+<sub>Designed with simplicity in mind.</sub>
 
 </div>
